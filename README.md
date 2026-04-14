@@ -99,30 +99,44 @@
 - pip package manager
 - Git (optional)
 
-### Step-by-Step Setup
 
+## 🚀 Setup Instructions
+
+### 1. Clone the Repository
 ```bash
-# 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/trading-app-streamlit.git
 cd trading-app-streamlit
+```
 
-# 2. Create virtual environment (recommended)
+### 2. Create Virtual Environment (Recommended)
+```bash
 python -m venv venv
+```
 
-# 3. Activate virtual environment
-# Windows:
+### 3. Activate Virtual Environment
+
+**Windows:**
+```bash
 venv\Scripts\activate
-# Mac/Linux:
+```
+
+**Mac/Linux:**
+```bash
 source venv/bin/activate
+```
 
-# 4. Install dependencies
+### 4. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# 5. Run the application
+### 5. Run the Application
+```bash
 streamlit run trading_app.py
+```
 
 
-# 📈 Trading App
+## 📈 Trading App
 
 A multi-module financial analysis platform built with **Python** and **Streamlit**, offering CAPM-based return estimation, beta analysis, interactive stock charting, and ML-powered price prediction — all in one dashboard.
 
