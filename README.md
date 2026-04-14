@@ -274,13 +274,13 @@ streamlit run app.py
 
 | Module | Preview |
 |--------|---------|
-| Home Page | <img width="1894" height="914" alt="image" src="https://github.com/user-attachments/assets/35dbce2d-f579-4436-a4a6-649766f1bd7a" />
+| Home Page | 
+<img width="1894" height="914" alt="image" src="https://github.com/user-attachments/assets/35dbce2d-f579-4436-a4a6-649766f1bd7a" />
  |
 | CAPM RETURN | <img width="1890" height="860" alt="image" src="https://github.com/user-attachments/assets/90aae64e-48cd-487d-a280-296602390851" />
-
  |
 | Beta Calculator | <img width="1894" height="846" alt="image" src="https://github.com/user-attachments/assets/67436c50-e962-4f96-a9af-733b5e4bd6d5" />
-) |
+ |
 | Stock Charts | <img width="1892" height="741" alt="image" src="https://github.com/user-attachments/assets/6c7fcbf4-74b1-421e-99c6-48f49eeebed6" />
  |
 | Price Prediction | <img width="1893" height="883" alt="image" src="https://github.com/user-attachments/assets/b2d5a212-b0ee-4fd8-9d3e-07dfaa43c406" />
